@@ -1,5 +1,12 @@
 from Movies_class import Movies,Movie
-print("Welcome to our small project")
+print('''
+         |**********************************|
+         |                                  |
+         |    Welcome to Rhythms  Cinema    |
+         |                                  |
+         |                                  |
+         |**********************************|
+         ''')
 print("\n"*2)
 try:
     movie_name=input("enter the movie name: ")
