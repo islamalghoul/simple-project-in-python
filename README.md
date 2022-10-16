@@ -46,3 +46,5 @@ In this folder, we combined the two folders together so that the movie and serie
 1. [test_Movies_class](/home/mostafa/project-in-python1/test/test_Movies_class.py)
 2. [test_Series_class](/home/mostafa/project-in-python1/test/test_Series_class.py)
 * Here in these files were created tests for the attributes that were created in movies and series, and the test is performed in the terminal by typing pytest.
+
+# hi
